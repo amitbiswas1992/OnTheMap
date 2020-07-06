@@ -17,7 +17,7 @@ The user is possible to add their own data by posting a string that can be geoco
 - Swift 5
 
 ## Screenshots & Video
-<img src = "screenshot/enter place.png" width = "200">  <img src = "screenshot/map.png" width = "200">  <img src = "screenshot/overwrite.png" width = "200">  <img src = "screenshot/pin list.png" width = "200">
+<img src = "screenshot/enter place.png" width = "200">  <img src = "screenshot/map.png" width = "200">  <img src = "screenshot/overwrite.png" width = "200">  
 
 ---
 <p float="left">
